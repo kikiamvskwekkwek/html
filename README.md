@@ -9,7 +9,7 @@ A Filipino street food-themed cross-platform 3D turn-based combat game built wit
 ## Game Features & Controls
 
 * **Modes:** Single-player (vs AI) & Local Multiplayer (vs Friends)
-* **Customization:** Unique fighters, weapons, and street-food maps
+* **Customization:** Unique fighters, street food-themed weapons, and maps
 * **Controls:** Mouse / Touch to select attacks, actions, and targets
 
 ---
@@ -18,5 +18,6 @@ A Filipino street food-themed cross-platform 3D turn-based combat game built wit
 
 * **HTML5 & CSS3** - UI, layout, and styling
 * **JavaScript** - 3D rendering and turn-based combat logic
+* **Embedded Assets** - Custom cartoon graphics and UI assets
 
 ---
