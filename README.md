@@ -1,6 +1,6 @@
 # Kikiam vs Kwek Kwek
 
-A Filipino street food-themed cross-platform 3D turn-based combat game built with HTML, CSS, and JavaScript. Battle against friends or AI, customize your fighter, choose your weapons and arenas, and fight for snack-themed glory!
+A fun Filipino street food-themed, cross-platform 3D turn-based combat game built with HTML, CSS, and JavaScript. Battle against friends or AI opponents, customize your fighter, choose your weapons and arenas, and fight for snack-themed glory!
 
 [**[Play Game](https://kikiamvskwekkwek.github.io/html/)**]
 
